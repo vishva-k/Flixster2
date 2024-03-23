@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/kXH2Jew.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![undefined - Imgur](https://github.com/vishva-k/Flixster2/assets/108424734/02fd2fd2-a49f-44eb-9c43-169826a0cc56)
 
 GIF created with LiceCAP
 
